@@ -17,6 +17,10 @@ import re
 from datetime import datetime
 from typing import Any, Dict, List, Optional
 import os
+from dotenv import load_dotenv
+
+# Carrega variáveis de ambiente
+load_dotenv()
 
 # Importações do MCP
 from mcp.server.models import *
@@ -819,8 +823,12 @@ Retorne em formato JSON com esta estrutura exata:
 # Inicialização do servidor MCP
 app = Server("dealer-fraud-checker-mvp")
 
-# Initialize checker with API key
-API_KEY = "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"
+# Initialize checker with API key from environment
+API_KEY = os.getenv("OPENAI_API_KEY")
+if not API_KEY:
+    logger.error("❌ OPENAI_API_KEY não encontrada nas variáveis de ambiente")
+    raise ValueError("OPENAI_API_KEY é obrigatória")
+
 fraud_checker = DealerFraudChecker(API_KEY)
 
 @app.list_tools()

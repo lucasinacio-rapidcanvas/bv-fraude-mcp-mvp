@@ -1,0 +1,199 @@
+{
+  "entries": {
+    "631d1911bc7c6503e4551c49aa9185f3": {
+      "data": {
+        "error": "Erro ao consultar API: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************9Q0A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+        "status": "success",
+        "query_date": "2025-09-08T10:20:34.895171"
+      },
+      "created_at": "2025-09-08T10:20:34.895296",
+      "cnpj": "21.591.149/0001-62",
+      "operation": "legal",
+      "company_name": ""
+    },
+    "44cb0291f3054a80f4aa9a320982dba5": {
+      "data": {
+        "error": "Erro ao consultar API: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************9Q0A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+        "status": "success",
+        "query_date": "2025-09-08T10:20:34.908260",
+        "cnpj_valid": true
+      },
+      "created_at": "2025-09-08T10:20:34.908331",
+      "cnpj": "21.591.149/0001-62",
+      "operation": "status",
+      "company_name": ""
+    },
+    "4e820d68bb5bdefa9f5a64c23b3cbdb0": {
+      "data": {
+        "error": "Erro ao consultar API: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************9Q0A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+        "status": "success",
+        "query_date": "2025-09-08T10:20:34.922149"
+      },
+      "created_at": "2025-09-08T10:20:34.922210",
+      "cnpj": "21.591.149/0001-62",
+      "operation": "reputation",
+      "company_name": ""
+    },
+    "678241c7c6f6c3ce3c8acba2023891c1": {
+      "data": {
+        "cnpj": "21.591.149/0001-62",
+        "company_name": "",
+        "analysis_date": "2025-09-08T10:20:36.812495",
+        "checks_performed": {
+          "cnpj_status": {
+            "error": "Erro ao consultar API: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************9Q0A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+            "status": "success",
+            "query_date": "2025-09-08T10:20:34.908260",
+            "cnpj_valid": true
+          },
+          "reputation": {
+            "error": "Erro ao consultar API: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************9Q0A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+            "status": "success",
+            "query_date": "2025-09-08T10:20:34.922149"
+          },
+          "legal_issues": {
+            "error": "Erro ao consultar API: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************9Q0A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+            "status": "success",
+            "query_date": "2025-09-08T10:20:34.895171"
+          },
+          "business_images": {
+            "status": "partial_success",
+            "cnpj": "21.591.149/0001-62",
+            "company_name": "N/A",
+            "business_images": {
+              "facade": {
+                "url": "N/A",
+                "description": "N/A",
+                "source": "N/A",
+                "verified": false
+              },
+              "logo": {
+                "url": "N/A",
+                "description": "N/A",
+                "source": "N/A",
+                "verified": false
+              },
+              "interior": {
+                "url": "N/A",
+                "description": "N/A",
+                "source": "N/A",
+                "verified": false
+              },
+              "staff": {
+                "url": "N/A",
+                "description": "N/A",
+                "source": "N/A",
+                "verified": false
+              },
+              "vehicles": {
+                "url": "N/A",
+                "description": "N/A",
+                "source": "N/A",
+                "verified": false
+              },
+              "location": {
+                "url": "N/A",
+                "description": "N/A",
+                "source": "N/A",
+                "verified": false
+              }
+            },
+            "image_analysis": {
+              "total_images_found": 0,
+              "verified_images": 0,
+              "legitimacy_indicators": [],
+              "red_flags": [
+                "Não foi possível encontrar imagens"
+              ],
+              "visual_consistency": "N/A",
+              "business_appearance": "N/A"
+            },
+            "social_media_presence": {
+              "instagram": {
+                "url": "N/A",
+                "followers": "N/A",
+                "posts": "N/A",
+                "recent_activity": "N/A"
+              },
+              "facebook": {
+                "url": "N/A",
+                "likes": "N/A",
+                "reviews": "N/A",
+                "recent_activity": "N/A"
+              }
+            },
+            "raw_response": "{\"error\": \"Erro ao consultar API: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************9Q0A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}\", \"status\": \"error\", \"query_date\": \"2025-09-08T10:20:36.812213\"}",
+            "query_date": "2025-09-08T10:20:36.812377"
+          }
+        },
+        "risk_analysis": {
+          "risk_score": 50,
+          "risk_level": "ALTO",
+          "risk_factors": [
+            "Situação cadastral irregular"
+          ],
+          "recommendation": "🚨 CUIDADO - Investigar mais profundamente antes de negociar",
+          "next_steps": [
+            "Solicitar documentação adicional",
+            "Verificar credenciamento em órgãos do setor",
+            "Visitar fisicamente o estabelecimento",
+            "Consultar outros clientes recentes"
+          ]
+        }
+      },
+      "created_at": "2025-09-08T10:20:36.812589",
+      "cnpj": "21.591.149/0001-62",
+      "operation": "comprehensive",
+      "company_name": ""
+    },
+    "0f7ddd5b89e53e1b30a8cdc55a126889": {
+      "data": {
+        "cnpj": "11.222.333/0001-81",
+        "company_name": "AutoCenter Demo",
+        "reputation_score": 85,
+        "reclame_aqui_score": "8.2/10",
+        "google_reviews": "4.3/5 (127 avaliações)",
+        "complaints": [
+          {
+            "tipo": "Atendimento",
+            "resolvidas": 12,
+            "nao_resolvidas": 2
+          },
+          {
+            "tipo": "Documentação",
+            "resolvidas": 5,
+            "nao_resolvidas": 0
+          }
+        ],
+        "risk_level": "BAIXO",
+        "sources": [
+          "reclameaqui.com.br",
+          "google.com/maps"
+        ],
+        "status": "success",
+        "query_date": "2025-09-08T10:22:21.845633"
+      },
+      "created_at": "2025-09-08T10:22:21.845676",
+      "cnpj": "11.222.333/0001-81",
+      "operation": "reputation",
+      "company_name": "AutoCenter Demo"
+    },
+    "b16d63218670f11817cf7c8e43e49864": {
+      "data": {
+        "cnpj": "11.222.333/0001-81",
+        "legal_issues": [],
+        "processes": 0,
+        "risk_level": "BAIXO",
+        "status": "success"
+      },
+      "created_at": "2025-09-08T10:22:21.846373",
+      "cnpj": "11.222.333/0001-81",
+      "operation": "legal",
+      "company_name": "AutoCenter Demo"
+    }
+  },
+  "metadata": {
+    "created": "2025-09-08T10:20:31.383453",
+    "last_updated": "2025-09-08T10:22:21.846376"
+  }
+}

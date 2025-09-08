@@ -16,8 +16,15 @@ class DealerFraudCLI:
     """Interface de linha de comando para testes do sistema de fraude."""
     
     def __init__(self):
-        # Por enquanto, vamos usar uma API key de exemplo - você precisará configurar a sua
-        self.checker = DealerFraudChecker("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")
+        import os
+        from dotenv import load_dotenv
+        
+        load_dotenv()
+        api_key = os.getenv("OPENAI_API_KEY")
+        if not api_key:
+            raise ValueError("OPENAI_API_KEY não encontrada nas variáveis de ambiente")
+        
+        self.checker = DealerFraudChecker(api_key)
     
     async def validate_cnpj(self, cnpj: str) -> None:
         """Valida um CNPJ."""

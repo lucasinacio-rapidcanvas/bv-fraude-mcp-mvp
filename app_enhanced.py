@@ -13,6 +13,11 @@ from typing import Dict, Any, List
 import plotly.express as px
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
+import os
+from dotenv import load_dotenv
+
+# Carrega variáveis de ambiente
+load_dotenv()
 
 # Importa nossa classe principal
 from mvp_dealer_fraud_mcp import DealerFraudChecker
@@ -159,7 +164,10 @@ st.markdown("""
 
 # Inicialização do session state
 if 'fraud_checker' not in st.session_state:
-    api_key = "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"
+    api_key = os.getenv("OPENAI_API_KEY")
+    if not api_key:
+        st.error("❌ OPENAI_API_KEY não encontrada. Configure o arquivo .env")
+        st.stop()
     st.session_state.fraud_checker = DealerFraudChecker(api_key)
 
 if 'analysis_results' not in st.session_state:

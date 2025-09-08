@@ -103,8 +103,15 @@ class SimpleAPITest:
                 return f"Erro: {str(e)} | Fallback: {str(e2)}"
 
 async def main():
-    # API key (mesma do código principal)
-    API_KEY = "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"
+    # API key das variáveis de ambiente
+    import os
+    from dotenv import load_dotenv
+    
+    load_dotenv()
+    API_KEY = os.getenv("OPENAI_API_KEY")
+    if not API_KEY:
+        print("❌ OPENAI_API_KEY não encontrada nas variáveis de ambiente")
+        return
     
     tester = SimpleAPITest(API_KEY)
     result = await tester.test_responses_api()
