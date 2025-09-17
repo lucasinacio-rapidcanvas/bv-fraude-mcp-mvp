@@ -1,0 +1,738 @@
+{
+  "11222333000181": {
+    "name": "EMPRESA A LTDA",
+    "formatted_address": "São Paulo, SP",
+    "business_status": "OPERATIONAL",
+    "g_rating": null,
+    "g_user_ratings_total": 0,
+    "g_reviews": [],
+    "g_phone": null,
+    "g_website": null,
+    "place_id": "simulated_place_11222333000181",
+    "g_risk_score": 48,
+    "g_risk_level": "MÉDIO",
+    "g_risk_factors": [
+      "Pouca presença online",
+      "Poucas avaliações disponíveis"
+    ],
+    "query_date": "2025-09-11T14:58:54.182251",
+    "data_source": "Google Places API (Simulado - API indisponível)",
+    "status": "simulated",
+    "cache_key": "11222333000181"
+  },
+  "99888777000166": {
+    "name": "EMPRESA B ME",
+    "formatted_address": "Rio de Janeiro, RJ",
+    "business_status": "OPERATIONAL",
+    "g_rating": 3.9,
+    "g_user_ratings_total": 202,
+    "g_reviews": [
+      {
+        "author_name": "Cliente 1",
+        "rating": 3,
+        "text": "Experiência satisfatória no geral.",
+        "time": 1757029630.182541
+      },
+      {
+        "author_name": "Cliente 2",
+        "rating": 2,
+        "text": "Ótimo atendimento, recomendo!",
+        "time": 1755767056.182545
+      },
+      {
+        "author_name": "Cliente 3",
+        "rating": 4,
+        "text": "Bom custo-benefício.",
+        "time": 1732950013.182548
+      },
+      {
+        "author_name": "Cliente 4",
+        "rating": 2,
+        "text": "Experiência satisfatória no geral.",
+        "time": 1746703135.182551
+      },
+      {
+        "author_name": "Cliente 5",
+        "rating": 2,
+        "text": "Bom custo-benefício.",
+        "time": 1746900943.182554
+      }
+    ],
+    "g_phone": "(57) 9226-6943",
+    "g_website": null,
+    "place_id": "simulated_place_99888777000166",
+    "g_risk_score": 31,
+    "g_risk_level": "MÉDIO",
+    "g_risk_factors": [
+      "Rating moderado"
+    ],
+    "query_date": "2025-09-11T14:58:54.182557",
+    "data_source": "Google Places API (Simulado - API indisponível)",
+    "status": "simulated",
+    "cache_key": "99888777000166"
+  },
+  "55444333000122": {
+    "name": "EMPRESA C EIRELI",
+    "formatted_address": "Belo Horizonte, MG",
+    "business_status": "OPERATIONAL",
+    "g_rating": 3.0,
+    "g_user_ratings_total": 117,
+    "g_reviews": [
+      {
+        "author_name": "Cliente 1",
+        "rating": 2,
+        "text": "Não recomendo, experiência ruim.",
+        "time": 1747633186.182744
+      },
+      {
+        "author_name": "Cliente 2",
+        "rating": 3,
+        "text": "Serviço de qualidade, voltarei sempre.",
+        "time": 1740108088.182747
+      },
+      {
+        "author_name": "Cliente 3",
+        "rating": 4,
+        "text": "Tive alguns problemas, mas resolveram.",
+        "time": 1728102271.18275
+      },
+      {
+        "author_name": "Cliente 4",
+        "rating": 2,
+        "text": "Excelente! Super indico!",
+        "time": 1748026268.182752
+      },
+      {
+        "author_name": "Cliente 5",
+        "rating": 4,
+        "text": "Ótimo atendimento, recomendo!",
+        "time": 1756793416.182755
+      }
+    ],
+    "g_phone": "(76) 9512-6625",
+    "g_website": "www.empresaceireli.com",
+    "place_id": "simulated_place_55444333000122",
+    "g_risk_score": 65,
+    "g_risk_level": "ALTO",
+    "g_risk_factors": [
+      "Rating baixo"
+    ],
+    "query_date": "2025-09-11T14:58:54.182758",
+    "data_source": "Google Places API (Simulado - API indisponível)",
+    "status": "simulated",
+    "cache_key": "55444333000122"
+  },
+  "12345678000190": {
+    "name": "EMPRESA D SA",
+    "formatted_address": "Curitiba, PR",
+    "business_status": "OPERATIONAL",
+    "g_rating": 2.9,
+    "g_user_ratings_total": 159,
+    "g_reviews": [
+      {
+        "author_name": "Cliente 1",
+        "rating": 3,
+        "text": "Serviço de qualidade, voltarei sempre.",
+        "time": 1744262806.182948
+      },
+      {
+        "author_name": "Cliente 2",
+        "rating": 2,
+        "text": "Excelente! Super indico!",
+        "time": 1728956259.182952
+      },
+      {
+        "author_name": "Cliente 3",
+        "rating": 1,
+        "text": "Não recomendo, experiência ruim.",
+        "time": 1750759155.182955
+      },
+      {
+        "author_name": "Cliente 4",
+        "rating": 1,
+        "text": "Experiência satisfatória no geral.",
+        "time": 1738084444.182958
+      },
+      {
+        "author_name": "Cliente 5",
+        "rating": 3,
+        "text": "Atendimento poderia ser melhor.",
+        "time": 1727018308.18296
+      }
+    ],
+    "g_phone": "(38) 9505-4615",
+    "g_website": null,
+    "place_id": "simulated_place_12345678000190",
+    "g_risk_score": 72,
+    "g_risk_level": "ALTO",
+    "g_risk_factors": [
+      "Rating muito baixo",
+      "Possíveis problemas de atendimento"
+    ],
+    "query_date": "2025-09-11T14:58:54.182963",
+    "data_source": "Google Places API (Simulado - API indisponível)",
+    "status": "simulated",
+    "cache_key": "12345678000190"
+  },
+  "98765432000111": {
+    "name": "EMPRESA E LTDA",
+    "formatted_address": "Porto Alegre, RS",
+    "business_status": "OPERATIONAL",
+    "g_rating": 2.5,
+    "g_user_ratings_total": 410,
+    "g_reviews": [
+      {
+        "author_name": "Cliente 1",
+        "rating": 2,
+        "text": "Experiência satisfatória no geral.",
+        "time": 1746688632.18326
+      },
+      {
+        "author_name": "Cliente 2",
+        "rating": 1,
+        "text": "Atendimento poderia ser melhor.",
+        "time": 1743008896.183264
+      },
+      {
+        "author_name": "Cliente 3",
+        "rating": 1,
+        "text": "Serviço de qualidade, voltarei sempre.",
+        "time": 1727522953.183267
+      },
+      {
+        "author_name": "Cliente 4",
+        "rating": 1,
+        "text": "Ótimo atendimento, recomendo!",
+        "time": 1740312724.183269
+      },
+      {
+        "author_name": "Cliente 5",
+        "rating": 3,
+        "text": "Tive alguns problemas, mas resolveram.",
+        "time": 1757064562.183272
+      }
+    ],
+    "g_phone": "(25) 9470-7737",
+    "g_website": "www.empresae.com",
+    "place_id": "simulated_place_98765432000111",
+    "g_risk_score": 85,
+    "g_risk_level": "CRÍTICO",
+    "g_risk_factors": [
+      "Rating muito baixo",
+      "Possíveis problemas de atendimento"
+    ],
+    "query_date": "2025-09-11T14:58:54.183284",
+    "data_source": "Google Places API (Simulado - API indisponível)",
+    "status": "simulated",
+    "cache_key": "98765432000111"
+  },
+  "11111111000111": {
+    "name": "TESTE 1",
+    "formatted_address": "Local 1",
+    "business_status": "OPERATIONAL",
+    "g_rating": 3.8,
+    "g_user_ratings_total": 422,
+    "g_reviews": [
+      {
+        "author_name": "Cliente 1",
+        "rating": 2,
+        "text": "Bom custo-benefício.",
+        "time": 1735155816.533581
+      },
+      {
+        "author_name": "Cliente 2",
+        "rating": 2,
+        "text": "Experiência satisfatória no geral.",
+        "time": 1736435498.533591
+      },
+      {
+        "author_name": "Cliente 3",
+        "rating": 2,
+        "text": "Bom custo-benefício.",
+        "time": 1750456036.533594
+      },
+      {
+        "author_name": "Cliente 4",
+        "rating": 2,
+        "text": "Bom custo-benefício.",
+        "time": 1757519783.533597
+      },
+      {
+        "author_name": "Cliente 5",
+        "rating": 3,
+        "text": "Serviço de qualidade, voltarei sempre.",
+        "time": 1735059945.5336
+      }
+    ],
+    "g_phone": "(40) 9273-5503",
+    "g_website": "www.teste1.com",
+    "place_id": "simulated_place_11111111000111",
+    "g_risk_score": 41,
+    "g_risk_level": "MÉDIO",
+    "g_risk_factors": [
+      "Rating moderado"
+    ],
+    "query_date": "2025-09-11T14:59:02.533603",
+    "data_source": "Google Places API (Simulado - API indisponível)",
+    "status": "simulated",
+    "cache_key": "11111111000111"
+  },
+  "22222222000222": {
+    "name": "TESTE 2",
+    "formatted_address": "Local 2",
+    "business_status": "CLOSED_PERMANENTLY",
+    "g_rating": null,
+    "g_user_ratings_total": 0,
+    "g_reviews": [],
+    "g_phone": null,
+    "g_website": null,
+    "place_id": "simulated_place_22222222000222",
+    "g_risk_score": 82,
+    "g_risk_level": "CRÍTICO",
+    "g_risk_factors": [
+      "Negócio fechado permanentemente",
+      "Alto risco operacional"
+    ],
+    "query_date": "2025-09-11T14:59:02.534053",
+    "data_source": "Google Places API (Simulado - API indisponível)",
+    "status": "simulated",
+    "cache_key": "22222222000222"
+  },
+  "33333333000333": {
+    "name": "TESTE 3",
+    "formatted_address": "Local 3",
+    "business_status": "CLOSED_TEMPORARILY",
+    "g_rating": 2.9,
+    "g_user_ratings_total": 149,
+    "g_reviews": [
+      {
+        "author_name": "Cliente 1",
+        "rating": 2,
+        "text": "Serviço de qualidade, voltarei sempre.",
+        "time": 1757302163.534423
+      },
+      {
+        "author_name": "Cliente 2",
+        "rating": 3,
+        "text": "Atendimento poderia ser melhor.",
+        "time": 1730881834.534426
+      },
+      {
+        "author_name": "Cliente 3",
+        "rating": 3,
+        "text": "Serviço de qualidade, voltarei sempre.",
+        "time": 1728556433.534429
+      },
+      {
+        "author_name": "Cliente 4",
+        "rating": 3,
+        "text": "Ótimo atendimento, recomendo!",
+        "time": 1731626617.534432
+      },
+      {
+        "author_name": "Cliente 5",
+        "rating": 3,
+        "text": "Experiência satisfatória no geral.",
+        "time": 1752947821.534434
+      }
+    ],
+    "g_phone": "(72) 9548-6849",
+    "g_website": "www.teste3.com",
+    "place_id": "simulated_place_33333333000333",
+    "g_risk_score": 100,
+    "g_risk_level": "CRÍTICO",
+    "g_risk_factors": [
+      "Rating muito baixo",
+      "Possíveis problemas de atendimento",
+      "Status fechado temporariamente"
+    ],
+    "query_date": "2025-09-11T14:59:02.534438",
+    "data_source": "Google Places API (Simulado - API indisponível)",
+    "status": "simulated",
+    "cache_key": "33333333000333"
+  },
+  "44444444000444": {
+    "name": "TESTE 4",
+    "formatted_address": "Local 4",
+    "business_status": "OPERATIONAL",
+    "g_rating": null,
+    "g_user_ratings_total": 0,
+    "g_reviews": [],
+    "g_phone": null,
+    "g_website": null,
+    "place_id": "simulated_place_44444444000444",
+    "g_risk_score": 38,
+    "g_risk_level": "MÉDIO",
+    "g_risk_factors": [
+      "Pouca presença online",
+      "Poucas avaliações disponíveis"
+    ],
+    "query_date": "2025-09-11T14:59:02.534807",
+    "data_source": "Google Places API (Simulado - API indisponível)",
+    "status": "simulated",
+    "cache_key": "44444444000444"
+  },
+  "55555555000555": {
+    "name": "TESTE 5",
+    "formatted_address": "Local 5",
+    "business_status": "OPERATIONAL",
+    "g_rating": 2.1,
+    "g_user_ratings_total": 269,
+    "g_reviews": [
+      {
+        "author_name": "Cliente 1",
+        "rating": 3,
+        "text": "Não recomendo, experiência ruim.",
+        "time": 1732196958.535207
+      },
+      {
+        "author_name": "Cliente 2",
+        "rating": 1,
+        "text": "Serviço de qualidade, voltarei sempre.",
+        "time": 1738441899.535211
+      },
+      {
+        "author_name": "Cliente 3",
+        "rating": 1,
+        "text": "Bom custo-benefício.",
+        "time": 1728954839.535213
+      },
+      {
+        "author_name": "Cliente 4",
+        "rating": 1,
+        "text": "Tive alguns problemas, mas resolveram.",
+        "time": 1727224824.535216
+      },
+      {
+        "author_name": "Cliente 5",
+        "rating": 2,
+        "text": "Ótimo atendimento, recomendo!",
+        "time": 1744488357.535218
+      }
+    ],
+    "g_phone": "(41) 9755-9084",
+    "g_website": null,
+    "place_id": "simulated_place_55555555000555",
+    "g_risk_score": 85,
+    "g_risk_level": "CRÍTICO",
+    "g_risk_factors": [
+      "Rating muito baixo",
+      "Possíveis problemas de atendimento"
+    ],
+    "query_date": "2025-09-11T14:59:02.535221",
+    "data_source": "Google Places API (Simulado - API indisponível)",
+    "status": "simulated",
+    "cache_key": "55555555000555"
+  },
+  "66666666000666": {
+    "name": "TESTE 6",
+    "formatted_address": "Local 6",
+    "business_status": "OPERATIONAL",
+    "g_rating": 2.8,
+    "g_user_ratings_total": 40,
+    "g_reviews": [
+      {
+        "author_name": "Cliente 1",
+        "rating": 1,
+        "text": "Não recomendo, experiência ruim.",
+        "time": 1756936355.53566
+      },
+      {
+        "author_name": "Cliente 2",
+        "rating": 2,
+        "text": "Tive alguns problemas, mas resolveram.",
+        "time": 1733157796.535663
+      },
+      {
+        "author_name": "Cliente 3",
+        "rating": 2,
+        "text": "Experiência satisfatória no geral.",
+        "time": 1734499168.535666
+      },
+      {
+        "author_name": "Cliente 4",
+        "rating": 2,
+        "text": "Bom custo-benefício.",
+        "time": 1743380437.535668
+      },
+      {
+        "author_name": "Cliente 5",
+        "rating": 1,
+        "text": "Tive alguns problemas, mas resolveram.",
+        "time": 1737590390.535671
+      }
+    ],
+    "g_phone": "(20) 9033-5299",
+    "g_website": "www.teste6.com.br",
+    "place_id": "simulated_place_66666666000666",
+    "g_risk_score": 78,
+    "g_risk_level": "CRÍTICO",
+    "g_risk_factors": [
+      "Rating muito baixo",
+      "Possíveis problemas de atendimento"
+    ],
+    "query_date": "2025-09-11T14:59:02.535673",
+    "data_source": "Google Places API (Simulado - API indisponível)",
+    "status": "simulated",
+    "cache_key": "66666666000666"
+  },
+  "77777777000777": {
+    "name": "TESTE 7",
+    "formatted_address": "Local 7",
+    "business_status": "OPERATIONAL",
+    "g_rating": 2.7,
+    "g_user_ratings_total": 451,
+    "g_reviews": [
+      {
+        "author_name": "Cliente 1",
+        "rating": 2,
+        "text": "Excelente! Super indico!",
+        "time": 1733845914.536246
+      },
+      {
+        "author_name": "Cliente 2",
+        "rating": 3,
+        "text": "Atendimento poderia ser melhor.",
+        "time": 1747877740.536251
+      },
+      {
+        "author_name": "Cliente 3",
+        "rating": 1,
+        "text": "Experiência satisfatória no geral.",
+        "time": 1743469886.536254
+      },
+      {
+        "author_name": "Cliente 4",
+        "rating": 1,
+        "text": "Bom custo-benefício.",
+        "time": 1746490685.536256
+      },
+      {
+        "author_name": "Cliente 5",
+        "rating": 1,
+        "text": "Excelente! Super indico!",
+        "time": 1735869774.536259
+      }
+    ],
+    "g_phone": "(68) 9051-6919",
+    "g_website": "www.teste7.com",
+    "place_id": "simulated_place_77777777000777",
+    "g_risk_score": 71,
+    "g_risk_level": "ALTO",
+    "g_risk_factors": [
+      "Rating muito baixo",
+      "Possíveis problemas de atendimento"
+    ],
+    "query_date": "2025-09-11T14:59:02.536262",
+    "data_source": "Google Places API (Simulado - API indisponível)",
+    "status": "simulated",
+    "cache_key": "77777777000777"
+  },
+  "88888888000888": {
+    "name": "TESTE 8",
+    "formatted_address": "Local 8",
+    "business_status": "OPERATIONAL",
+    "g_rating": 2.4,
+    "g_user_ratings_total": 6,
+    "g_reviews": [
+      {
+        "author_name": "Cliente 1",
+        "rating": 2,
+        "text": "Tive alguns problemas, mas resolveram.",
+        "time": 1741631273.536829
+      },
+      {
+        "author_name": "Cliente 2",
+        "rating": 1,
+        "text": "Excelente! Super indico!",
+        "time": 1744892088.536832
+      },
+      {
+        "author_name": "Cliente 3",
+        "rating": 3,
+        "text": "Atendimento poderia ser melhor.",
+        "time": 1739799210.536835
+      },
+      {
+        "author_name": "Cliente 4",
+        "rating": 1,
+        "text": "Ótimo atendimento, recomendo!",
+        "time": 1739325545.536838
+      },
+      {
+        "author_name": "Cliente 5",
+        "rating": 1,
+        "text": "Atendimento poderia ser melhor.",
+        "time": 1753420569.53684
+      }
+    ],
+    "g_phone": "(33) 9625-8740",
+    "g_website": "www.teste8.com",
+    "place_id": "simulated_place_88888888000888",
+    "g_risk_score": 87,
+    "g_risk_level": "CRÍTICO",
+    "g_risk_factors": [
+      "Rating muito baixo",
+      "Possíveis problemas de atendimento",
+      "Poucas avaliações disponíveis"
+    ],
+    "query_date": "2025-09-11T14:59:02.536844",
+    "data_source": "Google Places API (Simulado - API indisponível)",
+    "status": "simulated",
+    "cache_key": "88888888000888"
+  },
+  "03.647.692/0001-52": {
+    "name": "TANI MOTORS DISTRIBUIDORA DE VEICULOS LTDA",
+    "formatted_address": "AVENIDA CIDADE JARDIM, 51, JARDIM SATELITE, SAO JOSE DOS CAMPOS, SP",
+    "business_status": "OPERATIONAL",
+    "g_rating": 2.9,
+    "g_user_ratings_total": 378,
+    "g_reviews": [
+      {
+        "author_name": "Cliente 1",
+        "rating": 1,
+        "text": "Bom custo-benefício.",
+        "time": 1734050498.409353
+      },
+      {
+        "author_name": "Cliente 2",
+        "rating": 2,
+        "text": "Excelente! Super indico!",
+        "time": 1728485806.409397
+      },
+      {
+        "author_name": "Cliente 3",
+        "rating": 1,
+        "text": "Experiência satisfatória no geral.",
+        "time": 1734547751.409415
+      },
+      {
+        "author_name": "Cliente 4",
+        "rating": 2,
+        "text": "Serviço de qualidade, voltarei sempre.",
+        "time": 1735723593.409432
+      },
+      {
+        "author_name": "Cliente 5",
+        "rating": 1,
+        "text": "Tive alguns problemas, mas resolveram.",
+        "time": 1753534376.409448
+      }
+    ],
+    "g_phone": "(48) 9807-7752",
+    "g_website": "www.tanimotorsdistribuidoradeveiculos.com",
+    "place_id": "simulated_place_03.647.692/0001-52",
+    "g_risk_score": 74,
+    "g_risk_level": "ALTO",
+    "g_risk_factors": [
+      "Rating muito baixo",
+      "Possíveis problemas de atendimento"
+    ],
+    "query_date": "2025-09-11T14:59:46.409465",
+    "data_source": "Google Places API (Simulado - API indisponível)",
+    "status": "simulated",
+    "cache_key": "03.647.692/0001-52"
+  },
+  "21.591.149/0001-62": {
+    "name": "CARMAX BRASIL MULTIMARCAS LTDA",
+    "formatted_address": "AVENIDA DOUTOR NELSON D'AVILA, 1752, JARDIM SAO DIMAS, SAO JOSE DOS CAMPOS, SP",
+    "business_status": "OPERATIONAL",
+    "g_rating": 3.2,
+    "g_user_ratings_total": 90,
+    "g_reviews": [
+      {
+        "author_name": "Cliente 1",
+        "rating": 2,
+        "text": "Excelente! Super indico!",
+        "time": 1739564972.286788
+      },
+      {
+        "author_name": "Cliente 2",
+        "rating": 3,
+        "text": "Serviço de qualidade, voltarei sempre.",
+        "time": 1732793419.286809
+      },
+      {
+        "author_name": "Cliente 3",
+        "rating": 2,
+        "text": "Ótimo atendimento, recomendo!",
+        "time": 1748730903.286819
+      },
+      {
+        "author_name": "Cliente 4",
+        "rating": 4,
+        "text": "Atendimento poderia ser melhor.",
+        "time": 1726812034.286834
+      },
+      {
+        "author_name": "Cliente 5",
+        "rating": 2,
+        "text": "Serviço de qualidade, voltarei sempre.",
+        "time": 1729250461.286844
+      }
+    ],
+    "g_phone": "(31) 9528-8087",
+    "g_website": "www.carmaxbrasilmultimarcas.com",
+    "place_id": "simulated_place_21.591.149/0001-62",
+    "g_risk_score": 58,
+    "g_risk_level": "ALTO",
+    "g_risk_factors": [
+      "Rating baixo"
+    ],
+    "query_date": "2025-09-11T15:00:05.286854",
+    "data_source": "Google Places API (Simulado - API indisponível)",
+    "status": "simulated",
+    "cache_key": "21.591.149/0001-62"
+  },
+  "16.794.464/0001-57": {
+    "name": "CAOA MOTOR DO BRASIL LTDA",
+    "formatted_address": "AVENIDA DAS NACOES UNIDAS, 23293, VILA ALMEIDA, SAO PAULO, SP",
+    "business_status": "OPERATIONAL",
+    "g_rating": 3.5,
+    "g_user_ratings_total": 43,
+    "g_reviews": [
+      {
+        "author_name": "Cliente 1",
+        "rating": 2,
+        "text": "Serviço de qualidade, voltarei sempre.",
+        "time": 1757028620.499683
+      },
+      {
+        "author_name": "Cliente 2",
+        "rating": 4,
+        "text": "Excelente! Super indico!",
+        "time": 1729042992.499716
+      },
+      {
+        "author_name": "Cliente 3",
+        "rating": 3,
+        "text": "Experiência satisfatória no geral.",
+        "time": 1741025166.499721
+      },
+      {
+        "author_name": "Cliente 4",
+        "rating": 3,
+        "text": "Experiência satisfatória no geral.",
+        "time": 1733001002.499725
+      },
+      {
+        "author_name": "Cliente 5",
+        "rating": 3,
+        "text": "Bom custo-benefício.",
+        "time": 1728888901.49973
+      }
+    ],
+    "g_phone": "(55) 9164-5610",
+    "g_website": "www.caoamotordobrasil.com",
+    "place_id": "simulated_place_16.794.464/0001-57",
+    "g_risk_score": 31,
+    "g_risk_level": "MÉDIO",
+    "g_risk_factors": [
+      "Rating moderado"
+    ],
+    "query_date": "2025-09-16T16:15:24.499739",
+    "data_source": "Google Places API (Simulado - API indisponível)",
+    "status": "simulated",
+    "cache_key": "16.794.464/0001-57"
+  }
+}

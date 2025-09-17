@@ -1,0 +1,23 @@
+# MVP - MCP Server para Verificação de Fraude em Lojistas
+# Dependências mínimas para o MVP usando OpenAI Responses API
+
+# MCP Framework (Anthropic's Model Context Protocol)
+# Install from GitHub as it's not on PyPI yet
+mcp @ git+https://github.com/modelcontextprotocol/python-sdk.git
+
+# OpenAI Client (com suporte a web search)
+openai>=1.40.0
+
+# Utilitários básicos
+python-dotenv>=1.0.0
+
+# Logging
+loguru>=0.7.0
+
+# Interface Web
+streamlit>=1.28.0
+plotly>=5.15.0
+pandas>=2.0.0
+
+# Opcional para desenvolvimento
+black>=23.0.0

@@ -1,0 +1,737 @@
+{
+  "11222333000181": {
+    "cnpj": "11222333000181",
+    "razao_social": "CAIXA ESCOLAR DA ESCOLA ESTADUAL DE ENSINO FUNDAMENTAL JOSEFINA JACQUES NORONHA",
+    "nome_fantasia": "CAIXA ESCOLA DA ESCOLA ESTADUAL DE ENSINO FUNDAMENTAL J",
+    "situacao_cadastral": "ATIVA",
+    "data_situacao_cadastral": "2009-09-02",
+    "data_abertura": "2009-09-02",
+    "natureza_juridica": "Associação Privada",
+    "capital_social": 0,
+    "porte": "DEMAIS",
+    "query_date": "2025-09-08T11:14:19.288242",
+    "logradouro": "RUA GARIBALDI",
+    "numero": "070",
+    "complemento": "",
+    "bairro": "VILA RICA",
+    "municipio": "SAO SEBASTIAO DO CAI",
+    "uf": "RS",
+    "cep": "95760000",
+    "endereco_completo": "RUA GARIBALDI, 070, VILA RICA, SAO SEBASTIAO DO CAI, RS",
+    "cnae_principal": "8550301",
+    "cnae_principal_desc": "Administração de caixas escolares",
+    "cnaes_secundarios": [
+      {
+        "codigo": "0",
+        "descricao": ""
+      }
+    ],
+    "allowed_cnae": false,
+    "socios": [
+      {
+        "nome": "CLAUDIA KICH DA SILVA",
+        "qualificacao": "Presidente",
+        "data_entrada": "2016-09-29",
+        "cpf_cnpj": "***354400**"
+      }
+    ],
+    "days_since_opening": 5850,
+    "years_since_opening": 16.02,
+    "is_active": true,
+    "has_fantasia": true,
+    "capital_social_range": "BAIXO",
+    "partner_count": 1,
+    "risk_indicators": [
+      "CNAE não relacionado ao setor automotivo",
+      "Capital social muito baixo"
+    ]
+  },
+  "12520761000153": {
+    "cnpj": "12520761000153",
+    "razao_social": "PROENCA COMERCIO DE VEICULOS LTDA",
+    "nome_fantasia": "PROENCA MULTIMARCAS",
+    "situacao_cadastral": "ATIVA",
+    "data_situacao_cadastral": "2010-07-07",
+    "data_abertura": "2010-07-07",
+    "natureza_juridica": "Sociedade Empresária Limitada",
+    "capital_social": 40000,
+    "porte": "MICRO EMPRESA",
+    "query_date": "2025-09-08T11:15:48.275661",
+    "logradouro": "RUA ITALINO PERUFFO",
+    "numero": "95",
+    "complemento": "",
+    "bairro": "BOQUEIRAO",
+    "municipio": "CURITIBA",
+    "uf": "PR",
+    "cep": "81650330",
+    "endereco_completo": "RUA ITALINO PERUFFO, 95, BOQUEIRAO, CURITIBA, PR",
+    "cnae_principal": "4511102",
+    "cnae_principal_desc": "Comércio a varejo de automóveis, camionetas e utilitários usados",
+    "cnaes_secundarios": [
+      {
+        "codigo": "4512902",
+        "descricao": "Comércio sob consignação de veículos automotores"
+      },
+      {
+        "codigo": "4541204",
+        "descricao": "Comércio a varejo de motocicletas e motonetas usadas"
+      },
+      {
+        "codigo": "4542102",
+        "descricao": "Comércio sob consignação de motocicletas e motonetas"
+      },
+      {
+        "codigo": "7711000",
+        "descricao": "Locação de automóveis sem condutor"
+      }
+    ],
+    "allowed_cnae": true,
+    "socios": [
+      {
+        "nome": "EMERSON LUIS PROENCA",
+        "qualificacao": "Sócio-Administrador",
+        "data_entrada": "2010-07-07",
+        "cpf_cnpj": "***751769**"
+      }
+    ],
+    "days_since_opening": 5542,
+    "years_since_opening": 15.17,
+    "is_active": true,
+    "has_fantasia": true,
+    "capital_social_range": "MÉDIO",
+    "partner_count": 1,
+    "risk_indicators": []
+  },
+  "16670085000155": {
+    "cnpj": "16670085000155",
+    "razao_social": "LOCALIZA RENT A CAR SA",
+    "nome_fantasia": "",
+    "situacao_cadastral": "ATIVA",
+    "data_situacao_cadastral": "2005-11-03",
+    "data_abertura": "1973-09-28",
+    "natureza_juridica": "Sociedade Anônima Aberta",
+    "capital_social": 17908250000,
+    "porte": "DEMAIS",
+    "query_date": "2025-09-08T11:16:29.926923",
+    "logradouro": "AVENIDA BERNARDO DE VASCONCELOS",
+    "numero": "377",
+    "complemento": "",
+    "bairro": "CACHOEIRINHA",
+    "municipio": "BELO HORIZONTE",
+    "uf": "MG",
+    "cep": "31150000",
+    "endereco_completo": "AVENIDA BERNARDO DE VASCONCELOS, 377, CACHOEIRINHA, BELO HORIZONTE, MG",
+    "cnae_principal": "7711000",
+    "cnae_principal_desc": "Locação de automóveis sem condutor",
+    "cnaes_secundarios": [
+      {
+        "codigo": "6462000",
+        "descricao": "Holdings de instituições não-financeiras"
+      },
+      {
+        "codigo": "7312200",
+        "descricao": "Agenciamento de espaços para publicidade, exceto em veículos de comunicação"
+      },
+      {
+        "codigo": "7490104",
+        "descricao": "Atividades de intermediação e agenciamento de serviços e negócios em geral, exceto imobiliários"
+      },
+      {
+        "codigo": "7739099",
+        "descricao": "Aluguel de outras máquinas e equipamentos comerciais e industriais não especificados anteriormente, sem operador"
+      },
+      {
+        "codigo": "7740300",
+        "descricao": "Gestão de ativos intangíveis não-financeiros"
+      },
+      {
+        "codigo": "7820500",
+        "descricao": "Locação de mão-de-obra temporária"
+      },
+      {
+        "codigo": "8020001",
+        "descricao": "Atividades de monitoramento de sistemas de segurança eletrônico"
+      },
+      {
+        "codigo": "8299799",
+        "descricao": "Outras atividades de serviços prestados principalmente às empresas não especificadas anteriormente"
+      }
+    ],
+    "allowed_cnae": true,
+    "socios": [
+      {
+        "nome": "BRENO DAVIS CAMPOLINA",
+        "qualificacao": "Diretor",
+        "data_entrada": "2023-05-10",
+        "cpf_cnpj": "***880676**"
+      },
+      {
+        "nome": "BRUNO SEBASTIAN LASANSKY",
+        "qualificacao": "Diretor",
+        "data_entrada": "2018-05-16",
+        "cpf_cnpj": "***678618**"
+      },
+      {
+        "nome": "ELVIO LUPO NETO",
+        "qualificacao": "Diretor",
+        "data_entrada": "2019-06-03",
+        "cpf_cnpj": "***158848**"
+      },
+      {
+        "nome": "FLAVIO MERGENER SALLES",
+        "qualificacao": "Diretor",
+        "data_entrada": "2021-07-12",
+        "cpf_cnpj": "***346977**"
+      },
+      {
+        "nome": "JOAO HILARIO DE AVILA VALGAS FILHO",
+        "qualificacao": "Diretor",
+        "data_entrada": "2018-05-16",
+        "cpf_cnpj": "***602306**"
+      },
+      {
+        "nome": "RODRIGO TAVARES GONCALVES DE SOUSA",
+        "qualificacao": "Diretor",
+        "data_entrada": "2020-05-15",
+        "cpf_cnpj": "***652356**"
+      },
+      {
+        "nome": "SUZANA FAGUNDES RIBEIRO DE OLIVEIRA",
+        "qualificacao": "Diretor",
+        "data_entrada": "2019-06-03",
+        "cpf_cnpj": "***450836**"
+      }
+    ],
+    "days_since_opening": 18973,
+    "years_since_opening": 51.95,
+    "is_active": true,
+    "has_fantasia": false,
+    "capital_social_range": "MUITO_ALTO",
+    "partner_count": 7,
+    "risk_indicators": []
+  },
+  "21591149000162": {
+    "cnpj": "21591149000162",
+    "razao_social": "CARMAX BRASIL MULTIMARCAS LTDA",
+    "nome_fantasia": "TONY VEICULOS",
+    "situacao_cadastral": "ATIVA",
+    "data_situacao_cadastral": "2014-12-16",
+    "data_abertura": "2014-12-16",
+    "natureza_juridica": "Sociedade Empresária Limitada",
+    "capital_social": 400000,
+    "porte": "DEMAIS",
+    "query_date": "2025-09-08T19:21:04.252541",
+    "logradouro": "AVENIDA DOUTOR NELSON D'AVILA",
+    "numero": "1752",
+    "complemento": "",
+    "bairro": "JARDIM SAO DIMAS",
+    "municipio": "SAO JOSE DOS CAMPOS",
+    "uf": "SP",
+    "cep": "12245031",
+    "endereco_completo": "AVENIDA DOUTOR NELSON D'AVILA, 1752, JARDIM SAO DIMAS, SAO JOSE DOS CAMPOS, SP",
+    "cnae_principal": "4511102",
+    "cnae_principal_desc": "Comércio a varejo de automóveis, camionetas e utilitários usados",
+    "cnaes_secundarios": [
+      {
+        "codigo": "4530703",
+        "descricao": "Comércio a varejo de peças e acessórios novos para veículos automotores"
+      },
+      {
+        "codigo": "4541203",
+        "descricao": "Comércio a varejo de motocicletas e motonetas novas"
+      },
+      {
+        "codigo": "4763605",
+        "descricao": "Comércio varejista de embarcações e outros veículos recreativos; peças e acessórios"
+      },
+      {
+        "codigo": "5223100",
+        "descricao": "Estacionamento de veículos"
+      },
+      {
+        "codigo": "7490104",
+        "descricao": "Atividades de intermediação e agenciamento de serviços e negócios em geral, exceto imobiliários"
+      }
+    ],
+    "allowed_cnae": true,
+    "socios": [
+      {
+        "nome": "FDM PARTICIPACOES LTDA",
+        "qualificacao": "Sócio",
+        "data_entrada": "2023-01-06",
+        "cpf_cnpj": "48692219000125"
+      },
+      {
+        "nome": "FABIO DAOUD MAIA",
+        "qualificacao": "Administrador",
+        "data_entrada": "2014-12-16",
+        "cpf_cnpj": "***354958**"
+      }
+    ],
+    "days_since_opening": 3919,
+    "years_since_opening": 10.73,
+    "is_active": true,
+    "has_fantasia": true,
+    "capital_social_range": "ALTO",
+    "partner_count": 2,
+    "risk_indicators": []
+  },
+  "03647692000152": {
+    "cnpj": "03647692000152",
+    "razao_social": "TANI MOTORS DISTRIBUIDORA DE VEICULOS LTDA",
+    "nome_fantasia": "DAITAN",
+    "situacao_cadastral": "ATIVA",
+    "data_situacao_cadastral": "2005-08-27",
+    "data_abertura": "2000-02-03",
+    "natureza_juridica": "Sociedade Empresária Limitada",
+    "capital_social": 4650000,
+    "porte": "DEMAIS",
+    "query_date": "2025-09-08T19:22:58.816170",
+    "logradouro": "AVENIDA CIDADE JARDIM",
+    "numero": "51",
+    "complemento": "",
+    "bairro": "JARDIM SATELITE",
+    "municipio": "SAO JOSE DOS CAMPOS",
+    "uf": "SP",
+    "cep": "12231675",
+    "endereco_completo": "AVENIDA CIDADE JARDIM, 51, JARDIM SATELITE, SAO JOSE DOS CAMPOS, SP",
+    "cnae_principal": "4511101",
+    "cnae_principal_desc": "Comércio a varejo de automóveis, camionetas e utilitários novos",
+    "cnaes_secundarios": [
+      {
+        "codigo": "4511102",
+        "descricao": "Comércio a varejo de automóveis, camionetas e utilitários usados"
+      },
+      {
+        "codigo": "4530703",
+        "descricao": "Comércio a varejo de peças e acessórios novos para veículos automotores"
+      },
+      {
+        "codigo": "4520002",
+        "descricao": "Serviços de lanternagem ou funilaria e pintura de veículos automotores"
+      },
+      {
+        "codigo": "4520001",
+        "descricao": "Serviços de manutenção e reparação mecânica de veículos automotores"
+      },
+      {
+        "codigo": "4520003",
+        "descricao": "Serviços de manutenção e reparação elétrica de veículos automotores"
+      },
+      {
+        "codigo": "4520004",
+        "descricao": "Serviços de alinhamento e balanceamento de veículos automotores"
+      },
+      {
+        "codigo": "4520005",
+        "descricao": "Serviços de lavagem, lubrificação e polimento de veículos automotores"
+      },
+      {
+        "codigo": "4520007",
+        "descricao": "Serviços de instalação, manutenção e reparação de acessórios para veículos automotores"
+      },
+      {
+        "codigo": "7490104",
+        "descricao": "Atividades de intermediação e agenciamento de serviços e negócios em geral, exceto imobiliários"
+      },
+      {
+        "codigo": "5229002",
+        "descricao": "Serviços de reboque de veículos"
+      },
+      {
+        "codigo": "6463800",
+        "descricao": "Outras sociedades de participação, exceto holdings"
+      }
+    ],
+    "allowed_cnae": true,
+    "socios": [
+      {
+        "nome": "ANTOFAGASTA EMPREENDIMENTOS E PARTICIPACOES IMOBILIARIAS LTDA",
+        "qualificacao": "Sócio",
+        "data_entrada": "2018-10-23",
+        "cpf_cnpj": "23263222000100"
+      },
+      {
+        "nome": "DI VINCENZO EMPREENDIMENTOS E PARTICIPACOES LTDA .",
+        "qualificacao": "Sócio",
+        "data_entrada": "2018-10-23",
+        "cpf_cnpj": "23851864000112"
+      },
+      {
+        "nome": "M.S.NOVE EMPREENDIMENTOS E PARTICIPACOES LTDA.",
+        "qualificacao": "Sócio",
+        "data_entrada": "2019-07-30",
+        "cpf_cnpj": "33508825000170"
+      },
+      {
+        "nome": "MAVISORA EMPREENDIMENTOS E PARTICIPACOES LTDA",
+        "qualificacao": "Sócio",
+        "data_entrada": "2018-10-23",
+        "cpf_cnpj": "23263245000107"
+      },
+      {
+        "nome": "RAAJ PARTICIPACOES LTDA",
+        "qualificacao": "Sócio",
+        "data_entrada": "2018-10-23",
+        "cpf_cnpj": "12360028000119"
+      },
+      {
+        "nome": "ALEXANDRE SIMOES ZANINOTTO",
+        "qualificacao": "Administrador",
+        "data_entrada": "2015-09-18",
+        "cpf_cnpj": "***058948**"
+      },
+      {
+        "nome": "IDEVALDO RUBENS MAMPRIN",
+        "qualificacao": "Sócio-Administrador",
+        "data_entrada": "2015-09-18",
+        "cpf_cnpj": "***598778**"
+      }
+    ],
+    "days_since_opening": 9349,
+    "years_since_opening": 25.6,
+    "is_active": true,
+    "has_fantasia": true,
+    "capital_social_range": "MUITO_ALTO",
+    "partner_count": 7,
+    "risk_indicators": []
+  },
+  "60187853000106": {
+    "cnpj": "60187853000106",
+    "razao_social": "VEIBRAS IMPORTACAO E COMERCIO LTDA",
+    "nome_fantasia": "",
+    "situacao_cadastral": "ATIVA",
+    "data_situacao_cadastral": "2005-11-03",
+    "data_abertura": "1966-07-22",
+    "natureza_juridica": "Sociedade Empresária Limitada",
+    "capital_social": 3420000,
+    "porte": "DEMAIS",
+    "query_date": "2025-09-08T20:08:51.291086",
+    "logradouro": "AVENIDA JUSCELINO KUBITSCHEK",
+    "numero": "9250",
+    "complemento": "",
+    "bairro": "VL TATETUBA",
+    "municipio": "SAO JOSE DOS CAMPOS",
+    "uf": "SP",
+    "cep": "12220000",
+    "endereco_completo": "AVENIDA JUSCELINO KUBITSCHEK, 9250, VL TATETUBA, SAO JOSE DOS CAMPOS, SP",
+    "cnae_principal": "4511101",
+    "cnae_principal_desc": "Comércio a varejo de automóveis, camionetas e utilitários novos",
+    "cnaes_secundarios": [
+      {
+        "codigo": "4520005",
+        "descricao": "Serviços de lavagem, lubrificação e polimento de veículos automotores"
+      },
+      {
+        "codigo": "4520007",
+        "descricao": "Serviços de instalação, manutenção e reparação de acessórios para veículos automotores"
+      },
+      {
+        "codigo": "4530701",
+        "descricao": "Comércio por atacado de peças e acessórios novos para veículos automotores"
+      },
+      {
+        "codigo": "4530703",
+        "descricao": "Comércio a varejo de peças e acessórios novos para veículos automotores"
+      },
+      {
+        "codigo": "4930201",
+        "descricao": "Transporte rodoviário de carga, exceto produtos perigosos e mudanças, municipal."
+      },
+      {
+        "codigo": "4930202",
+        "descricao": "Transporte rodoviário de carga, exceto produtos perigosos e mudanças, intermunicipal, interestadual e internacional"
+      },
+      {
+        "codigo": "6493000",
+        "descricao": "Administração de consórcios para aquisição de bens e direitos"
+      },
+      {
+        "codigo": "6619399",
+        "descricao": "Outras atividades auxiliares dos serviços financeiros não especificadas anteriormente"
+      },
+      {
+        "codigo": "7490104",
+        "descricao": "Atividades de intermediação e agenciamento de serviços e negócios em geral, exceto imobiliários"
+      }
+    ],
+    "allowed_cnae": true,
+    "socios": [
+      {
+        "nome": "ACMD-C GESTAO DE BENS PROPRIOS E PARTICIPACOES LTDA",
+        "qualificacao": "Sócio",
+        "data_entrada": "2015-08-18",
+        "cpf_cnpj": "22503010000182"
+      },
+      {
+        "nome": "FMD GESTAO DE BENS PROPRIOS E PARTICIPACOES LTDA",
+        "qualificacao": "Sócio",
+        "data_entrada": "2015-08-18",
+        "cpf_cnpj": "21387890000106"
+      },
+      {
+        "nome": "ANDRE RODRIGUES DAVOLI",
+        "qualificacao": "Administrador",
+        "data_entrada": "2015-08-18",
+        "cpf_cnpj": "***899578**"
+      },
+      {
+        "nome": "CARLOS EDUARDO DE ARAUJO DAVOLI",
+        "qualificacao": "Sócio",
+        "data_entrada": "2024-08-09",
+        "cpf_cnpj": "***522938**"
+      },
+      {
+        "nome": "FERNANDO MILANO DAVOLI",
+        "qualificacao": "Sócio",
+        "data_entrada": "1997-04-15",
+        "cpf_cnpj": "***197108**"
+      },
+      {
+        "nome": "GABRIELA RODRIGUES DAVOLI",
+        "qualificacao": "Sócio-Administrador",
+        "data_entrada": "2015-08-18",
+        "cpf_cnpj": "***486538**"
+      },
+      {
+        "nome": "PAULO EDUARDO DE ARAUJO DAVOLI",
+        "qualificacao": "Sócio-Administrador",
+        "data_entrada": "2015-08-18",
+        "cpf_cnpj": "***788398**"
+      },
+      {
+        "nome": "RAFAEL RODRIGUEZ DAVOLI",
+        "qualificacao": "Sócio-Administrador",
+        "data_entrada": "2015-08-18",
+        "cpf_cnpj": "***333318**"
+      },
+      {
+        "nome": "RENATA DE ARAUJO DAVOLI GRACIOLA",
+        "qualificacao": "Sócio-Administrador",
+        "data_entrada": "2015-08-18",
+        "cpf_cnpj": "***350658**"
+      }
+    ],
+    "days_since_opening": 21598,
+    "years_since_opening": 59.13,
+    "is_active": true,
+    "has_fantasia": false,
+    "capital_social_range": "MUITO_ALTO",
+    "partner_count": 9,
+    "risk_indicators": []
+  },
+  "33923387000298": {
+    "cnpj": "33923387000298",
+    "razao_social": "RR MOTORS COMERCIO DE VEICULOS LTDA",
+    "nome_fantasia": "RR MOTORS",
+    "situacao_cadastral": "BAIXADA",
+    "data_situacao_cadastral": "2021-09-13",
+    "data_abertura": "2019-09-26",
+    "natureza_juridica": "Sociedade Empresária Limitada",
+    "capital_social": 700000,
+    "porte": "MICRO EMPRESA",
+    "query_date": "2025-09-08T20:09:53.470324",
+    "logradouro": "RUA DONA MATILDE",
+    "numero": "800",
+    "complemento": "",
+    "bairro": "VILA MATILDE",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "cep": "03512000",
+    "endereco_completo": "RUA DONA MATILDE, 800, VILA MATILDE, SAO PAULO, SP",
+    "cnae_principal": "4511102",
+    "cnae_principal_desc": "Comércio a varejo de automóveis, camionetas e utilitários usados",
+    "cnaes_secundarios": [
+      {
+        "codigo": "4512902",
+        "descricao": "Comércio sob consignação de veículos automotores"
+      },
+      {
+        "codigo": "6622300",
+        "descricao": "Corretores e agentes de seguros, de planos de previdência complementar e de saúde"
+      },
+      {
+        "codigo": "7490104",
+        "descricao": "Atividades de intermediação e agenciamento de serviços e negócios em geral, exceto imobiliários"
+      }
+    ],
+    "allowed_cnae": true,
+    "socios": [
+      {
+        "nome": "RENATO DA SILVA MARTINS",
+        "qualificacao": "Sócio-Administrador",
+        "data_entrada": "2020-08-27",
+        "cpf_cnpj": "***386038**"
+      }
+    ],
+    "days_since_opening": 2174,
+    "years_since_opening": 5.95,
+    "is_active": false,
+    "has_fantasia": true,
+    "capital_social_range": "ALTO",
+    "partner_count": 1,
+    "risk_indicators": [
+      "Situação cadastral inativa"
+    ]
+  },
+  "03518732003777": {
+    "cnpj": "03518732003777",
+    "razao_social": "HYUNDAI CAOA DO BRASIL LTDA",
+    "nome_fantasia": "GRUPO CAOA",
+    "situacao_cadastral": "ATIVA",
+    "data_situacao_cadastral": "2009-03-11",
+    "data_abertura": "2009-03-11",
+    "natureza_juridica": "Sociedade Empresária Limitada",
+    "capital_social": 1144932000,
+    "porte": "DEMAIS",
+    "query_date": "2025-09-11T14:36:01.122639",
+    "logradouro": "AVENIDA JOSE DE SOUSA CAMPOS",
+    "numero": "782",
+    "complemento": "",
+    "bairro": "CAMBUI",
+    "municipio": "CAMPINAS",
+    "uf": "SP",
+    "cep": "13025320",
+    "endereco_completo": "AVENIDA JOSE DE SOUSA CAMPOS, 782, CAMBUI, CAMPINAS, SP",
+    "cnae_principal": "4511101",
+    "cnae_principal_desc": "Comércio a varejo de automóveis, camionetas e utilitários novos",
+    "cnaes_secundarios": [
+      {
+        "codigo": "4512902",
+        "descricao": "Comércio sob consignação de veículos automotores"
+      },
+      {
+        "codigo": "4520001",
+        "descricao": "Serviços de manutenção e reparação mecânica de veículos automotores"
+      },
+      {
+        "codigo": "4520002",
+        "descricao": "Serviços de lanternagem ou funilaria e pintura de veículos automotores"
+      },
+      {
+        "codigo": "4530703",
+        "descricao": "Comércio a varejo de peças e acessórios novos para veículos automotores"
+      },
+      {
+        "codigo": "6463800",
+        "descricao": "Outras sociedades de participação, exceto holdings"
+      },
+      {
+        "codigo": "4512901",
+        "descricao": "Representantes comerciais e agentes do comércio de veículos automotores"
+      }
+    ],
+    "allowed_cnae": true,
+    "socios": [
+      {
+        "nome": "CAOA FAMILY PARTICIPACOES S/A.",
+        "qualificacao": "Sócio",
+        "data_entrada": "2007-05-03",
+        "cpf_cnpj": "08456887000139"
+      },
+      {
+        "nome": "IZABELA MOLON LUCHESI DE OLIVEIRA ANDRADE",
+        "qualificacao": "Sócio-Administrador",
+        "data_entrada": "1999-11-24",
+        "cpf_cnpj": "***983108**"
+      }
+    ],
+    "days_since_opening": 6028,
+    "years_since_opening": 16.5,
+    "is_active": true,
+    "has_fantasia": true,
+    "capital_social_range": "MUITO_ALTO",
+    "partner_count": 2,
+    "risk_indicators": []
+  },
+  "16794464000157": {
+    "cnpj": "16794464000157",
+    "razao_social": "CAOA MOTOR DO BRASIL LTDA",
+    "nome_fantasia": "",
+    "situacao_cadastral": "ATIVA",
+    "data_situacao_cadastral": "2012-08-29",
+    "data_abertura": "2012-08-29",
+    "natureza_juridica": "Sociedade Empresária Limitada",
+    "capital_social": 600000,
+    "porte": "DEMAIS",
+    "query_date": "2025-09-16T16:15:24.261067",
+    "logradouro": "AVENIDA DAS NACOES UNIDAS",
+    "numero": "23293",
+    "complemento": " PREDIO 1 LOJA A",
+    "bairro": "VILA ALMEIDA",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "cep": "04795100",
+    "endereco_completo": "AVENIDA DAS NACOES UNIDAS, 23293, VILA ALMEIDA, SAO PAULO, SP",
+    "cnae_principal": "4511101",
+    "cnae_principal_desc": "Comércio a varejo de automóveis, camionetas e utilitários novos",
+    "cnaes_secundarios": [
+      {
+        "codigo": "4511102",
+        "descricao": "Comércio a varejo de automóveis, camionetas e utilitários usados"
+      },
+      {
+        "codigo": "4520001",
+        "descricao": "Serviços de manutenção e reparação mecânica de veículos automotores"
+      },
+      {
+        "codigo": "4530703",
+        "descricao": "Comércio a varejo de peças e acessórios novos para veículos automotores"
+      },
+      {
+        "codigo": "4512901",
+        "descricao": "Representantes comerciais e agentes do comércio de veículos automotores"
+      },
+      {
+        "codigo": "4520002",
+        "descricao": "Serviços de lanternagem ou funilaria e pintura de veículos automotores"
+      },
+      {
+        "codigo": "6619302",
+        "descricao": "Correspondentes de instituições financeiras"
+      },
+      {
+        "codigo": "4512902",
+        "descricao": "Comércio sob consignação de veículos automotores"
+      },
+      {
+        "codigo": "6463800",
+        "descricao": "Outras sociedades de participação, exceto holdings"
+      },
+      {
+        "codigo": "7490104",
+        "descricao": "Atividades de intermediação e agenciamento de serviços e negócios em geral, exceto imobiliários"
+      },
+      {
+        "codigo": "4789001",
+        "descricao": "Comércio varejista de suvenires, bijuterias e artesanatos"
+      },
+      {
+        "codigo": "5211799",
+        "descricao": "Depósitos de mercadorias para terceiros, exceto armazéns gerais e guarda-móveis"
+      }
+    ],
+    "allowed_cnae": true,
+    "socios": [
+      {
+        "nome": "CAOA FAMILY PARTICIPACOES S/A.",
+        "qualificacao": "Sócio",
+        "data_entrada": "2012-08-29",
+        "cpf_cnpj": "08456887000139"
+      },
+      {
+        "nome": "IZABELA MOLON LUCHESI DE OLIVEIRA ANDRADE",
+        "qualificacao": "Sócio-Administrador",
+        "data_entrada": "2012-08-29",
+        "cpf_cnpj": "***983108**"
+      }
+    ],
+    "days_since_opening": 4766,
+    "years_since_opening": 13.05,
+    "is_active": true,
+    "has_fantasia": false,
+    "capital_social_range": "ALTO",
+    "partner_count": 2,
+    "risk_indicators": []
+  }
+}
